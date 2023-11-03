@@ -16,5 +16,5 @@ const analyzeArray = (arr) => {
     }
 }
 
-const arr = [1,8,3,4,2,6]
-console.log(analyzeArray(arr))
+export default analyzeArray
+
